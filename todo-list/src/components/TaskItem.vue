@@ -8,7 +8,7 @@
       <span :class="{ done: task.done }">{{ task.name }}</span>
     </div>
     <div class="task-buttons">
-      <button @click="editTask" title="Editar">✏️</button>
+      <button @click="editTask" v-if="!task.done" title="Editar">✏️</button>
       <button @click="deleteTask" title="Excluir">🗑️</button>
     </div>
   </div>
