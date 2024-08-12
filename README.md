@@ -1,4 +1,7 @@
 ## Online 👀
+
+https://israelfer-emix-todo-list.vercel.app/
+
 Teste técnico desenvolvido, aplicação do tipo "Todo List" (lista de tarefas) utilizando HTML, CSS e JavaScript seguindo um layout. As tarefas podem ser adicionar via input, e também podem ser editadas (apenas tarefas a fazer) e excluídas.
 
 As tarefas ficam armazenadas localmente via "Local Storage".
@@ -50,5 +53,5 @@ Agora rode o projeto localmente no seu navegador
   npm run serve
 ```
 
-## Autor
+## Autor 🤓
 - [@Israelfer](https://www.github.com/Israelfer)
