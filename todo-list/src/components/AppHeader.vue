@@ -25,7 +25,7 @@ header {
 header h1 {
   margin: 0;
   text-transform: uppercase;
-  font-weight: bolder;
+  font-weight: 700;
 }
 
 header h1 span {

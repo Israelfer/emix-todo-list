@@ -87,11 +87,11 @@ input[type="checkbox"] {
   border-radius: 4px;
 }
 
-.custom-checkbox input[type="checkbox"]:checked + span {
+.custom-checkbox input[type="checkbox"]:checked+span {
   background-color: #7B7B7B;
 }
 
-.custom-checkbox input[type="checkbox"]:checked + span::after {
+.custom-checkbox input[type="checkbox"]:checked+span::after {
   content: "";
   position: absolute;
   left: 4px;
