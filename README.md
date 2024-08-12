@@ -9,8 +9,8 @@ As tarefas ficam armazenadas localmente via "Local Storage".
 *Deploy:* Vercel
 
 ## Capturas de tela 🖥️
-![Captura de tela - 1](../todo-list/src/assets/print-1.png?raw=true "screenshot")
-![Captura de tela - 2](../todo-list/src/assets/print-2.png?raw=true "screenshot")
+![Captura de tela - 1](../main/todo-list/src/assets/print-1.png?raw=true "screenshot")
+![Captura de tela - 2](../main/todo-list/src/assets/print-2.png?raw=true "screenshot")
 
 ## Aprendizados 📚
 Utilizei esta oportunidade para aprender e explorar mais meus conhecimentos com o framework vuejs, com VUE 3. Criei componentes para que o código ficasse melhor dividido, .
